@@ -1,8 +1,8 @@
-[submodule "test/repos/CodeDuplicateTest1"]
-	path = test/repos/CodeDuplicateTest1
+[submodule "test/CodeDuplicateTest1"]
+	path = test/CodeDuplicateTest1
 	url = https://github.com/SchaefferDuncan/CodeDuplicateTest1
 	branch = master
-[submodule "test/repos/CodeDuplicateTest2"]
-	path = test/repos/CodeDuplicateTest2
+[submodule "test/CodeDuplicateTest2"]
+	path = test/CodeDuplicateTest2
 	url = https://github.com/SchaefferDuncan/CodeDuplicateTest2
 	branch = master
